@@ -54,6 +54,23 @@ const MainPage = ({ value }) => {
           <Button variant="filled">Explore More!</Button>
         </Box>
       </Box>
+      <Box
+        display="flex"
+        flexDirection="column"
+        sx={{
+          py: 10,
+        }}
+      >
+        <Box
+          sx={{
+            justifyContent: "flex-start",
+            mx: 15,
+          }}
+        >
+          <Typography variant="h3">My Working Experience</Typography>
+          <Box sx={{ my: 5 }}>{/* <Timeline /> */}</Box>
+        </Box>
+      </Box>
     </Box>
   );
 };

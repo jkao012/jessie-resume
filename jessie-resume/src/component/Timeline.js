@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Button, Typography } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
 import Timeline from "@mui/lab/Timeline";
 import TimelineItem from "@mui/lab/TimelineItem";
@@ -22,7 +22,7 @@ function StudyTimeline() {
         </TimelineOppositeContent>
         <TimelineSeparator>
           <TimelineDot sx={{ backgroundColor: dotColor }} />
-          {type !== "end" && <TimelineConnector />}
+          {type !== "end" && <TimelineConnector sx={{ height: 70 }} />}
         </TimelineSeparator>
         <TimelineContent>
           <Typography variant="body1">{content}</Typography>
