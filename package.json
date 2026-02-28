@@ -43,7 +43,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jkao012.github.io/jessie-resume/",
+  "homepage": "https://jkao012.github.io/jessie-resume",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
