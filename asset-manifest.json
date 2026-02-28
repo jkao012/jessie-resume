@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/jessie.kao.resume.github.io/static/css/main.e0765086.css",
-    "main.js": "/jessie.kao.resume.github.io/static/js/main.0ec5b73f.js",
+    "main.js": "/jessie.kao.resume.github.io/static/js/main.2f34b445.js",
     "static/js/453.fd024486.chunk.js": "/jessie.kao.resume.github.io/static/js/453.fd024486.chunk.js",
+    "static/media/Internship.png": "/jessie.kao.resume.github.io/static/media/Internship.c1c7c0614720aa85273e.png",
+    "static/media/Career.png": "/jessie.kao.resume.github.io/static/media/Career.5739fe3b4cd8682cf523.png",
     "static/media/GIS_banner.jpg": "/jessie.kao.resume.github.io/static/media/GIS_banner.5273c55be5376e4701f7.jpg",
     "static/media/earth.png": "/jessie.kao.resume.github.io/static/media/earth.91960a23ebdf25753929.png",
     "static/media/inter-latin-ext-400-normal.woff": "/jessie.kao.resume.github.io/static/media/inter-latin-ext-400-normal.c616205185f0d3677df9.woff",
@@ -19,15 +21,18 @@
     "static/media/inter-vietnamese-400-normal.woff": "/jessie.kao.resume.github.io/static/media/inter-vietnamese-400-normal.aaa15d735e3826061950.woff",
     "static/media/inter-greek-ext-400-normal.woff2": "/jessie.kao.resume.github.io/static/media/inter-greek-ext-400-normal.f2ef63e732b18d636044.woff2",
     "static/media/inter-vietnamese-400-normal.woff2": "/jessie.kao.resume.github.io/static/media/inter-vietnamese-400-normal.44c9df135eec470b0ab6.woff2",
+    "static/media/PhoneCall.svg": "/jessie.kao.resume.github.io/static/media/PhoneCall.f39e60112f8ffcca305cec31a1284005.svg",
     "static/media/LinkedIn_icon.svg": "/jessie.kao.resume.github.io/static/media/LinkedIn_icon.c5f7c80a4f858f8356d49cb775eb88ae.svg",
     "static/media/email_icon.svg": "/jessie.kao.resume.github.io/static/media/email_icon.08afa41a8a71e0bad8d950eeccaccd28.svg",
+    "static/media/EnvelopeSimple.svg": "/jessie.kao.resume.github.io/static/media/EnvelopeSimple.d7bc62fb4619d46a51a32376c259e77b.svg",
     "index.html": "/jessie.kao.resume.github.io/index.html",
+    "static/media/ContactBackground.svg": "/jessie.kao.resume.github.io/static/media/ContactBackground.827403cf58f92ea5bdcb957f14127ecd.svg",
     "main.e0765086.css.map": "/jessie.kao.resume.github.io/static/css/main.e0765086.css.map",
-    "main.0ec5b73f.js.map": "/jessie.kao.resume.github.io/static/js/main.0ec5b73f.js.map",
+    "main.2f34b445.js.map": "/jessie.kao.resume.github.io/static/js/main.2f34b445.js.map",
     "453.fd024486.chunk.js.map": "/jessie.kao.resume.github.io/static/js/453.fd024486.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0765086.css",
-    "static/js/main.0ec5b73f.js"
+    "static/js/main.2f34b445.js"
   ]
 }
